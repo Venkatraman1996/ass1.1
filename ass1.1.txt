@@ -1,0 +1,43 @@
+1.Big data is huge amount of data which is beyond the processing capablity of 
+  the single existing system.the various sources of big data are
+       
+
+       *sensors
+       *social media
+       *business transactions
+       *weather forecast
+       *public data
+
+
+=================================================================================
+
+2.the 3 v's of big data are
+     *volume
+     *variety
+     *velocity
+
+=================================================================================
+3.Horizontal scaling is adding up of one or more nodes to the exisisting cluster
+  inorder to increase the resources.
+
+  Vertical scaling in empowering or adding new resources to a single node to increase
+  its performance.
+====================================================================================
+4. needs for hadoop:
+                    to work on both structured and unstructured data hadoop is used
+   since most of the data generated are unstructured without any proper schema.
+
+
+   Working of hadoop:in hadoop the storage is done in the HDFS and the processing is 
+   carried by the java based system known as  map reduce.
+
+======================================================================================
+
+
+
+
+
+
+
+
+
